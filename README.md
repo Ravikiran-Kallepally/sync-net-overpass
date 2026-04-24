@@ -1,4 +1,4 @@
-sync-net is a Chrome Extension designed to bridge the gap between workstations
+Sync-net is a Chrome Extension designed to bridge the gap between workstations
 It enables real-time synchronization of code snippets and error logs between devices signed into the same Google account.
 
 Project Overview
